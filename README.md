@@ -12,13 +12,13 @@ Verve Systems has clients in India and around the globe. Their IT employees are 
 
 1.	Design a web application survey to assess and improve IT employees soft skills. The survey will also be useful for recruitment and hiring new employees.
 2.	Assess employees soft skills in the following areas:-	
- * Communication
-   * Body language
-   * Dealing with international clients
-   * Delegation
-   * Self-Grooming
- * Stress Handling
- * Responsiveness
+     * Communication
+       * Body language
+       * Dealing with international clients
+       * Delegation
+       * Self-Grooming
+     * Stress Handling
+     * Responsiveness
 3. Provide employees their results and subsequently links to training videos, if required.
 4. Provide HR results of the employees. Thus, they can further implement further training for employees and also have a mechanism to assess soft skills for potential IT employees.
 
